@@ -11,11 +11,6 @@ The application needs to be an inventory management system that needs to be able
 
 Add a customer to the system, View all customers in the system, Update a customer in the system, Delete a customer in the system, Add an item to the system, View all items in the system, Update an item in the system, Delete an item in the system, Create an order in the system, View all orders in the system, Delete an order in the system, Add an item to an order, Calculate a cost for an order, Delete an item in an order
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
 For this project I needed to download a few different software programs. I downloaded Eclipse workspace for Java, which was straightforward as I followed the commands on QA community, I made sure to edit the system enviroment variables (SEV). In the SEV I could now edit both "User" and the "System" variables, and I changed the "System" variables as I needed our changes to affect ALL users. I created a new 'JAVA_HOME' system variable I then edited the "Path" variable to include a reference to the /bin (binary files) folder in my JAVA_HOME. To do this I selected the "Path" variable under "System variables" and then click on edit. 
 Further to this I was also required to download My SQL which is used for the project. Downloading SQL was again made very straight forward and is relatively self explanitory as I followed the steps online. 
 
